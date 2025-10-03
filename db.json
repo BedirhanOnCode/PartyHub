@@ -1,0 +1,1026 @@
+{
+  "parties": [
+    {
+      "party_id": "P1",
+      "title": "Perşembe Gecesi",
+      "host_id": "U2",
+      "date": "2025-10-16",
+      "status": "open",
+      "id": "16bd"
+    },
+    {
+      "party_id": "P2",
+      "title": "Cuma Partisi",
+      "host_id": "U3",
+      "date": "2025-10-17",
+      "status": "closed",
+      "id": "147e"
+    },
+    {
+      "party_id": "P644278",
+      "title": "yeni parti",
+      "host_id": "U2",
+      "date": "2025-10-16",
+      "status": "open",
+      "id": "3817"
+    },
+    {
+      "party_id": "P3",
+      "title": "Çarşamba Gecesi",
+      "host_id": "U4",
+      "date": "2025-10-23",
+      "status": "open",
+      "id": "0dec"
+    },
+    {
+      "party_id": "P4",
+      "title": "Cuma Partisi (2)",
+      "host_id": "U5",
+      "date": "2025-10-24",
+      "status": "closed",
+      "id": "b1cb"
+    },
+    {
+      "party_id": "P644279",
+      "title": "yeni parti (2)",
+      "host_id": "U4",
+      "date": "2025-10-23",
+      "status": "open",
+      "id": "728c"
+    },
+    {
+      "party_id": "P140528",
+      "title": "Eğlence",
+      "host_id": "U1",
+      "date": "2025-10-16",
+      "status": "open",
+      "id": "6c67"
+    },
+    {
+      "id": "2c40",
+      "party_id": "P842857",
+      "title": "arkadaş partisi",
+      "host_id": "U1",
+      "date": "2025-10-16",
+      "status": "open"
+    }
+  ],
+  "users": [
+    {
+      "user_id": "U1",
+      "name": "Ayşe",
+      "gamer_tag": "ayse#123",
+      "avatar": "u1.png",
+      "id": "4714"
+    },
+    {
+      "user_id": "U2",
+      "name": "Ali",
+      "gamer_tag": "ali#777",
+      "avatar": "u2.png",
+      "id": "9f1e"
+    },
+    {
+      "user_id": "U3",
+      "name": "Deniz",
+      "gamer_tag": "deniz#42",
+      "avatar": "u3.png",
+      "id": "7ab3"
+    },
+    {
+      "user_id": "U4",
+      "name": "Mehmet",
+      "gamer_tag": "mehmet#888",
+      "avatar": "u4.png",
+      "id": "4eb9"
+    },
+    {
+      "user_id": "U5",
+      "name": "Zeynep",
+      "gamer_tag": "zeynep#555",
+      "avatar": "u5.png",
+      "id": "0cf4"
+    }
+  ],
+  "games": [
+    {
+      "game_id": "G1",
+      "title": "FIFA 25",
+      "genre": "sports",
+      "max_players": 4,
+      "id": "f6e0"
+    },
+    {
+      "game_id": "G2",
+      "title": "PUBG",
+      "genre": "battle-royale",
+      "max_players": 100,
+      "id": "b717"
+    },
+    {
+      "game_id": "G3",
+      "title": "Rocket League",
+      "genre": "arcade-sports",
+      "max_players": 8,
+      "id": "fddd"
+    },
+    {
+      "game_id": "G4",
+      "title": "Valorant",
+      "genre": "fps",
+      "max_players": 10,
+      "id": "0001"
+    },
+    {
+      "game_id": "G5",
+      "title": "Among Us",
+      "genre": "party",
+      "max_players": 15,
+      "id": "77a9"
+    }
+  ],
+  "scores": [
+    {
+      "match_id": "M1",
+      "user_id": "U1",
+      "score": 4,
+      "result": "win",
+      "id": "f9f4"
+    },
+    {
+      "match_id": "M1",
+      "user_id": "U2",
+      "score": 2,
+      "result": "lose",
+      "id": "232b"
+    },
+    {
+      "match_id": "M1",
+      "user_id": "U3",
+      "score": 3,
+      "result": "lose",
+      "id": "de26"
+    },
+    {
+      "match_id": "M2",
+      "user_id": "U4",
+      "score": 5,
+      "result": "win",
+      "id": "ca9b"
+    },
+    {
+      "match_id": "M2",
+      "user_id": "U5",
+      "score": 1,
+      "result": "lose",
+      "id": "34e1"
+    },
+    {
+      "match_id": "M2",
+      "user_id": "U3",
+      "score": 2,
+      "result": "lose",
+      "id": "478d"
+    },
+    {
+      "match_id": "M274003",
+      "user_id": "U1",
+      "score": 0,
+      "result": "lose",
+      "id": "e93b"
+    },
+    {
+      "match_id": "M274003",
+      "user_id": "U2",
+      "score": 0,
+      "result": "lose",
+      "id": "9255"
+    },
+    {
+      "match_id": "M274003",
+      "user_id": "U3",
+      "score": 0,
+      "result": "lose",
+      "id": "6716"
+    },
+    {
+      "match_id": "M274003",
+      "user_id": "U4",
+      "score": 0,
+      "result": "lose",
+      "id": "f04b"
+    },
+    {
+      "match_id": "M274003",
+      "user_id": "U5",
+      "score": 0,
+      "result": "lose",
+      "id": "6019"
+    },
+    {
+      "match_id": "M813983",
+      "user_id": "U1",
+      "score": 0,
+      "result": "lose",
+      "id": "3949"
+    },
+    {
+      "match_id": "M813983",
+      "user_id": "U2",
+      "score": 0,
+      "result": "lose",
+      "id": "8667"
+    },
+    {
+      "match_id": "M813983",
+      "user_id": "U3",
+      "score": 0,
+      "result": "lose",
+      "id": "a1a6"
+    },
+    {
+      "match_id": "M813983",
+      "user_id": "U4",
+      "score": 0,
+      "result": "lose",
+      "id": "7086"
+    },
+    {
+      "match_id": "M813983",
+      "user_id": "U5",
+      "score": 0,
+      "result": "lose",
+      "id": "25eb"
+    },
+    {
+      "match_id": "M88348",
+      "user_id": "U1",
+      "score": 0,
+      "result": "lose",
+      "id": "c2bb"
+    },
+    {
+      "match_id": "M88348",
+      "user_id": "U2",
+      "score": 0,
+      "result": "lose",
+      "id": "85aa"
+    },
+    {
+      "match_id": "M88348",
+      "user_id": "U3",
+      "score": 0,
+      "result": "lose",
+      "id": "ad49"
+    },
+    {
+      "match_id": "M88348",
+      "user_id": "U4",
+      "score": 0,
+      "result": "lose",
+      "id": "e62b"
+    },
+    {
+      "match_id": "M88348",
+      "user_id": "U5",
+      "score": 0,
+      "result": "lose",
+      "id": "2460"
+    },
+    {
+      "match_id": "M766774",
+      "user_id": "U1",
+      "score": 0,
+      "result": "lose",
+      "id": "d4b8"
+    },
+    {
+      "match_id": "M766774",
+      "user_id": "U2",
+      "score": 0,
+      "result": "lose",
+      "id": "0977"
+    },
+    {
+      "match_id": "M766774",
+      "user_id": "U3",
+      "score": 0,
+      "result": "lose",
+      "id": "c978"
+    },
+    {
+      "match_id": "M766774",
+      "user_id": "U4",
+      "score": 0,
+      "result": "lose",
+      "id": "b8aa"
+    },
+    {
+      "match_id": "M766774",
+      "user_id": "U5",
+      "score": 0,
+      "result": "lose",
+      "id": "5f7a"
+    },
+    {
+      "match_id": "M284011",
+      "user_id": "U1",
+      "score": 0,
+      "result": "lose",
+      "id": "c412"
+    },
+    {
+      "match_id": "M284011",
+      "user_id": "U2",
+      "score": 0,
+      "result": "lose",
+      "id": "dc89"
+    },
+    {
+      "match_id": "M284011",
+      "user_id": "U3",
+      "score": 0,
+      "result": "lose",
+      "id": "29fc"
+    },
+    {
+      "match_id": "M284011",
+      "user_id": "U4",
+      "score": 0,
+      "result": "lose",
+      "id": "b3fd"
+    },
+    {
+      "match_id": "M284011",
+      "user_id": "U5",
+      "score": 0,
+      "result": "lose",
+      "id": "23ec"
+    },
+    {
+      "match_id": "M486520",
+      "user_id": "U1",
+      "score": 0,
+      "result": "lose",
+      "id": "8058"
+    },
+    {
+      "match_id": "M486520",
+      "user_id": "U2",
+      "score": 0,
+      "result": "lose",
+      "id": "b923"
+    },
+    {
+      "match_id": "M486520",
+      "user_id": "U3",
+      "score": 0,
+      "result": "lose",
+      "id": "c82c"
+    },
+    {
+      "match_id": "M486520",
+      "user_id": "U4",
+      "score": 0,
+      "result": "lose",
+      "id": "7a5a"
+    },
+    {
+      "match_id": "M486520",
+      "user_id": "U5",
+      "score": 0,
+      "result": "lose",
+      "id": "e712"
+    },
+    {
+      "match_id": "M853541",
+      "user_id": "U1",
+      "score": 0,
+      "result": "lose",
+      "id": "bf00"
+    },
+    {
+      "match_id": "M853541",
+      "user_id": "U2",
+      "score": 0,
+      "result": "lose",
+      "id": "10e3"
+    },
+    {
+      "match_id": "M853541",
+      "user_id": "U3",
+      "score": 0,
+      "result": "lose",
+      "id": "12a1"
+    },
+    {
+      "match_id": "M853541",
+      "user_id": "U4",
+      "score": 0,
+      "result": "lose",
+      "id": "69d5"
+    },
+    {
+      "match_id": "M853541",
+      "user_id": "U5",
+      "score": 0,
+      "result": "lose",
+      "id": "3a90"
+    },
+    {
+      "match_id": "M838950",
+      "user_id": "U1",
+      "score": 0,
+      "result": "lose",
+      "id": "4245"
+    },
+    {
+      "match_id": "M838950",
+      "user_id": "U2",
+      "score": 0,
+      "result": "lose",
+      "id": "01a9"
+    },
+    {
+      "match_id": "M838950",
+      "user_id": "U3",
+      "score": 0,
+      "result": "lose",
+      "id": "10f7"
+    },
+    {
+      "match_id": "M838950",
+      "user_id": "U4",
+      "score": 0,
+      "result": "lose",
+      "id": "126b"
+    },
+    {
+      "match_id": "M838950",
+      "user_id": "U5",
+      "score": 0,
+      "result": "lose",
+      "id": "bf31"
+    },
+    {
+      "match_id": "M745136",
+      "user_id": "U1",
+      "score": 0,
+      "result": "lose",
+      "id": "1643"
+    },
+    {
+      "match_id": "M745136",
+      "user_id": "U2",
+      "score": 0,
+      "result": "lose",
+      "id": "42b8"
+    },
+    {
+      "match_id": "M745136",
+      "user_id": "U3",
+      "score": 0,
+      "result": "lose",
+      "id": "fc1c"
+    },
+    {
+      "match_id": "M745136",
+      "user_id": "U4",
+      "score": 0,
+      "result": "lose",
+      "id": "3fd0"
+    },
+    {
+      "match_id": "M745136",
+      "user_id": "U5",
+      "score": 0,
+      "result": "lose",
+      "id": "6385"
+    },
+    {
+      "match_id": "M908507",
+      "user_id": "U1",
+      "score": 0,
+      "result": "lose",
+      "id": "6351"
+    },
+    {
+      "match_id": "M908507",
+      "user_id": "U2",
+      "score": 0,
+      "result": "lose",
+      "id": "bf01"
+    },
+    {
+      "match_id": "M908507",
+      "user_id": "U3",
+      "score": 0,
+      "result": "lose",
+      "id": "d168"
+    },
+    {
+      "match_id": "M908507",
+      "user_id": "U4",
+      "score": 0,
+      "result": "lose",
+      "id": "5bec"
+    },
+    {
+      "match_id": "M908507",
+      "user_id": "U5",
+      "score": 0,
+      "result": "lose",
+      "id": "3d6d"
+    },
+    {
+      "match_id": "M327957",
+      "user_id": "U1",
+      "score": 0,
+      "result": "lose",
+      "id": "b6ac"
+    },
+    {
+      "match_id": "M327957",
+      "user_id": "U2",
+      "score": 0,
+      "result": "lose",
+      "id": "92be"
+    },
+    {
+      "match_id": "M327957",
+      "user_id": "U3",
+      "score": 0,
+      "result": "draw",
+      "id": "31cf"
+    },
+    {
+      "match_id": "M327957",
+      "user_id": "U4",
+      "score": 0,
+      "result": "win",
+      "id": "7c3b"
+    },
+    {
+      "match_id": "M327957",
+      "user_id": "U5",
+      "score": 0,
+      "result": "win",
+      "id": "ca6c"
+    },
+    {
+      "match_id": "M366069",
+      "user_id": "U1",
+      "score": 0,
+      "result": "win",
+      "id": "8e8a"
+    },
+    {
+      "match_id": "M366069",
+      "user_id": "U2",
+      "score": 0,
+      "result": "lose",
+      "id": "b6c8"
+    },
+    {
+      "match_id": "M366069",
+      "user_id": "U3",
+      "score": 0,
+      "result": "draw",
+      "id": "57f6"
+    },
+    {
+      "match_id": "M366069",
+      "user_id": "U4",
+      "score": 0,
+      "result": "lose",
+      "id": "f779"
+    },
+    {
+      "match_id": "M366069",
+      "user_id": "U5",
+      "score": 0,
+      "result": "lose",
+      "id": "8086"
+    }
+  ],
+  "matches": [
+    {
+      "match_id": "M1",
+      "party_id": "P1",
+      "game_id": "G3",
+      "date": "2025-10-16T20:15:00Z",
+      "id": "63a8"
+    },
+    {
+      "match_id": "M2",
+      "party_id": "P3",
+      "game_id": "G4",
+      "date": "2025-10-23T21:00:00Z",
+      "id": "e4fe"
+    },
+    {
+      "match_id": "M274003",
+      "party_id": "P644278",
+      "game_id": "G2",
+      "date": "2025-10-02T22:43:38.0737946+03:00",
+      "id": "37bf"
+    },
+    {
+      "match_id": "M813983",
+      "party_id": "P644278",
+      "game_id": "G2",
+      "date": "2025-10-02T22:43:49.8771462+03:00",
+      "id": "1115"
+    },
+    {
+      "match_id": "M88348",
+      "party_id": "P644278",
+      "game_id": "G2",
+      "date": "2025-10-02T22:43:52.3747953+03:00",
+      "id": "49f8"
+    },
+    {
+      "match_id": "M766774",
+      "party_id": "P644278",
+      "game_id": "G2",
+      "date": "2025-10-02T22:44:55.811065+03:00",
+      "id": "b959"
+    },
+    {
+      "match_id": "M284011",
+      "party_id": "P644278",
+      "game_id": "G2",
+      "date": "2025-10-02T22:44:58.2148462+03:00",
+      "id": "b4fa"
+    },
+    {
+      "match_id": "M486520",
+      "party_id": "P644278",
+      "game_id": "G2",
+      "date": "2025-10-02T22:44:59.8469315+03:00",
+      "id": "ae86"
+    },
+    {
+      "match_id": "M853541",
+      "party_id": "P644278",
+      "game_id": "G2",
+      "date": "2025-10-02T22:45:01.3687424+03:00",
+      "id": "894c"
+    },
+    {
+      "match_id": "M838950",
+      "party_id": "P644278",
+      "game_id": "G2",
+      "date": "2025-10-02T22:45:05.6237004+03:00",
+      "id": "b2d8"
+    },
+    {
+      "match_id": "M745136",
+      "party_id": "P644278",
+      "game_id": "G2",
+      "date": "2025-10-02T22:45:07.871918+03:00",
+      "id": "7733"
+    },
+    {
+      "match_id": "M908507",
+      "party_id": "P644278",
+      "game_id": "G2",
+      "date": "2025-10-02T22:45:10.9340092+03:00",
+      "id": "dc25"
+    },
+    {
+      "match_id": "M327957",
+      "party_id": "P644278",
+      "game_id": "G2",
+      "date": "2025-10-02T23:01:52.2730971+03:00",
+      "id": "c97f"
+    },
+    {
+      "match_id": "M366069",
+      "party_id": "P140528",
+      "game_id": "G2",
+      "date": "2025-10-02T23:25:28.0836489+03:00",
+      "id": "5567"
+    }
+  ],
+  "game_votes": [
+    {
+      "party_id": "P1",
+      "game_id": "G1",
+      "user_id": "U1",
+      "id": "b363"
+    },
+    {
+      "party_id": "P1",
+      "game_id": "G3",
+      "user_id": "U2",
+      "id": "a7cb"
+    },
+    {
+      "party_id": "P1",
+      "game_id": "G3",
+      "user_id": "U3",
+      "id": "ca3c"
+    },
+    {
+      "party_id": "P644278",
+      "game_id": "G3",
+      "user_id": "U2",
+      "id": "3436"
+    },
+    {
+      "party_id": "P644278",
+      "game_id": "G2",
+      "user_id": "U1",
+      "id": "0174"
+    },
+    {
+      "party_id": "P644278",
+      "game_id": "G2",
+      "user_id": "U3",
+      "id": "d7c0"
+    },
+    {
+      "party_id": "P3",
+      "game_id": "G4",
+      "user_id": "U4",
+      "id": "c110"
+    },
+    {
+      "party_id": "P3",
+      "game_id": "G5",
+      "user_id": "U5",
+      "id": "2a13"
+    },
+    {
+      "party_id": "P3",
+      "game_id": "G5",
+      "user_id": "U3",
+      "id": "8e49"
+    },
+    {
+      "party_id": "P644279",
+      "game_id": "G5",
+      "user_id": "U4",
+      "id": "e33c"
+    },
+    {
+      "party_id": "P644279",
+      "game_id": "G2",
+      "user_id": "U5",
+      "id": "1493"
+    },
+    {
+      "party_id": "P644279",
+      "game_id": "G2",
+      "user_id": "U3",
+      "id": "ee1e"
+    },
+    {
+      "party_id": "P4",
+      "game_id": "G2",
+      "user_id": "U1",
+      "id": "8af5"
+    },
+    {
+      "party_id": "P4",
+      "game_id": "G2",
+      "user_id": "U2",
+      "id": "285b"
+    },
+    {
+      "party_id": "P4",
+      "game_id": "G2",
+      "user_id": "U5",
+      "id": "0e98"
+    },
+    {
+      "party_id": "P4",
+      "game_id": "G1",
+      "user_id": "U4",
+      "id": "9f36"
+    },
+    {
+      "party_id": "P140528",
+      "game_id": "G1",
+      "user_id": "U1",
+      "id": "a1c6"
+    },
+    {
+      "party_id": "P140528",
+      "game_id": "G3",
+      "user_id": "U2",
+      "id": "bf9e"
+    },
+    {
+      "party_id": "P140528",
+      "game_id": "G2",
+      "user_id": "U4",
+      "id": "b7e0"
+    },
+    {
+      "party_id": "P140528",
+      "game_id": "G2",
+      "user_id": "U5",
+      "id": "a67d"
+    },
+    {
+      "id": "112f",
+      "party_id": "P842857",
+      "game_id": "G4",
+      "user_id": "U4"
+    },
+    {
+      "id": "91d9",
+      "party_id": "P842857",
+      "game_id": "G2",
+      "user_id": "U3"
+    },
+    {
+      "id": "90d2",
+      "party_id": "P842857",
+      "game_id": "G4",
+      "user_id": "U1"
+    },
+    {
+      "id": "a67a",
+      "party_id": "P842857",
+      "game_id": "G2",
+      "user_id": "U1"
+    },
+    {
+      "id": "8a2b",
+      "party_id": "P842857",
+      "game_id": "G3",
+      "user_id": "U1"
+    },
+    {
+      "id": "ca34",
+      "party_id": "P842857",
+      "game_id": "G4",
+      "user_id": "U1"
+    }
+  ],
+  "slot_votes": [
+    {
+      "slot_id": "S1",
+      "user_id": "U1",
+      "choice": "yes",
+      "id": "1f96"
+    },
+    {
+      "slot_id": "S1",
+      "user_id": "U3",
+      "choice": "no",
+      "id": "132b"
+    },
+    {
+      "slot_id": "S2",
+      "user_id": "U2",
+      "choice": "yes",
+      "id": "e6e0"
+    },
+    {
+      "slot_id": "S2",
+      "user_id": "U3",
+      "choice": "yes",
+      "id": "80ad"
+    },
+    {
+      "slot_id": "S907422",
+      "user_id": "U3",
+      "choice": "yes",
+      "id": "86da"
+    },
+    {
+      "slot_id": "S907422",
+      "user_id": "U2",
+      "choice": "yes",
+      "id": "5b4f"
+    },
+    {
+      "slot_id": "S907422",
+      "user_id": "U1",
+      "choice": "yes",
+      "id": "5bbb"
+    },
+    {
+      "slot_id": "S3",
+      "user_id": "U4",
+      "choice": "yes",
+      "id": "b553"
+    },
+    {
+      "slot_id": "S3",
+      "user_id": "U5",
+      "choice": "no",
+      "id": "8c1a"
+    },
+    {
+      "slot_id": "S4",
+      "user_id": "U4",
+      "choice": "yes",
+      "id": "4777"
+    },
+    {
+      "slot_id": "S4",
+      "user_id": "U5",
+      "choice": "yes",
+      "id": "536a"
+    },
+    {
+      "slot_id": "S944422",
+      "user_id": "U5",
+      "choice": "yes",
+      "id": "af6b"
+    },
+    {
+      "slot_id": "S944422",
+      "user_id": "U4",
+      "choice": "yes",
+      "id": "1755"
+    },
+    {
+      "slot_id": "S944422",
+      "user_id": "U3",
+      "choice": "yes",
+      "id": "38db"
+    },
+    {
+      "slot_id": "S413617",
+      "user_id": "U5",
+      "choice": "yes",
+      "id": "ba9a"
+    },
+    {
+      "slot_id": "S413617",
+      "user_id": "U1",
+      "choice": "yes",
+      "id": "5d50"
+    },
+    {
+      "slot_id": "S884477",
+      "user_id": "U3",
+      "choice": "yes",
+      "id": "7bb0"
+    }
+  ],
+  "slots": [
+    {
+      "slot_id": "S1",
+      "party_id": "P1",
+      "start": "2025-10-16T19:00:00Z",
+      "end": "2025-10-16T20:00:00Z",
+      "id": "8e48"
+    },
+    {
+      "slot_id": "S2",
+      "party_id": "P1",
+      "start": "2025-10-16T20:00:00Z",
+      "end": "2025-10-16T21:00:00Z",
+      "id": "75a9"
+    },
+    {
+      "slot_id": "S907422",
+      "party_id": "P644278",
+      "start": "2025-10-16T19:00:00Z",
+      "end": "2025-10-16T20:00:00Z",
+      "id": "d854"
+    },
+    {
+      "slot_id": "S3",
+      "party_id": "P3",
+      "start": "2025-10-23T19:00:00Z",
+      "end": "2025-10-23T20:00:00Z",
+      "id": "2858"
+    },
+    {
+      "slot_id": "S4",
+      "party_id": "P3",
+      "start": "2025-10-23T20:00:00Z",
+      "end": "2025-10-23T21:00:00Z",
+      "id": "0528"
+    },
+    {
+      "slot_id": "S944422",
+      "party_id": "P644279",
+      "start": "2025-10-23T19:00:00Z",
+      "end": "2025-10-23T20:00:00Z",
+      "id": "0e92"
+    },
+    {
+      "slot_id": "S413617",
+      "party_id": "P140528",
+      "start": "2025-10-16T19:00:00Z",
+      "end": "2025-10-16T20:00:00Z",
+      "id": "6aa7"
+    },
+    {
+      "slot_id": "S884477",
+      "party_id": "P140528",
+      "start": "2025-10-16T19:00:00Z",
+      "end": "2025-10-16T20:00:00Z",
+      "id": "4725"
+    }
+  ]
+}
